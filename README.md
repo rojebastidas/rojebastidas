@@ -14,7 +14,9 @@
     <h3>JavaScript|NodeJs|React|Redux|Postgres|Sequelize|Express|SQL|HTML|CSS</h3>
     <br>
     <h2>Contactame </h2>
-    <p align="left">Correo Electrónico: rojebastidas@yahoo.com.ar</p>
+    <ul> 
+        <li align="left">Correo Electrónico: rojebastidas@yahoo.com.ar</li>
+    </ul>
     
                 
     
