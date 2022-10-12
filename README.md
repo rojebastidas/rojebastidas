@@ -14,10 +14,10 @@
     <h3>JavaScript|NodeJs|React|Redux|Postgres|Sequelize|Express|SQL|HTML|CSS
     <br>
     <h2>Contactame </h2>
-    <ul>
-        <li>Correo Electrónico: rojebastidas@yahoo.com.ar</li>
-        <li>Linkedin:https://www.linkedin.com/in/rodrigo-jes%C3%BAs-bastidas-bastidas-61a89762/</li>
-        </ul> 
+   
+        <p align="justify">Correo Electrónico: rojebastidas@yahoo.com.ar</p>
+    <p align="justify">Linkedin:https://www.linkedin.com/in/rodrigo-jes%C3%BAs-bastidas-bastidas-61a89762</p>
+         
    
         
     
