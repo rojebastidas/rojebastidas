@@ -12,7 +12,7 @@
     <br>
     <h2>Lenguajes y Herramientas</h2>
     <br>
-    <h3>JavaScript|NodeJs|React|Redux|Postgres|Sequelize|Express|SQL|HTML|CSS|
+    <h3>JavaScript|NodeJs|React|Redux|Postgres|Sequelize|Express|SQL|HTML|CSS
 
     
     
