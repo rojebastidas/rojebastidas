@@ -11,10 +11,12 @@
     lácteos y conocimientos de facturación en salud, promoción y prevención, Historías clínicas con 3 años de experiencia trabajando en una IPS </p>
     <br>
     <h2>Lenguajes y Herramientas</h2>
-    <br>
     <h3>JavaScript|NodeJs|React|Redux|Postgres|Sequelize|Express|SQL|HTML|CSS
-
-    
+    <br>
+    <h2>Contactame </h2>
+    <ul>
+        <li>Correo Electrónico: rojebastidas@yahoo.com.ar</li>
+        <li>Linkedin:https://www.linkedin.com/in/rodrigo-jes%C3%BAs-bastidas-bastidas-61a89762/</li>
     
    
         
