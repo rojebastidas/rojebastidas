@@ -10,7 +10,9 @@
     Sergio Arboleda Misión TIC 2022, También cuento con 7 años de experiencia en Contabilidad trabajando para una empresa que fabrica productos 
     lácteos y conocimientos de facturación en salud, promoción y prevención, Historías clínicas con 3 años de experiencia trabajando en una IPS </p>
     <br>
-    <h2>![icons8-codificación-para-computadora-portátil-64](https://user-images.githubusercontent.com/98197584/195257587-bd725fab-6a9c-4e02-8f6d-c4d18cd58eb8.png )</h2>
+    <h2>Lenguajes y Herramientas</h2>
+    <br>
+    <h3>JavaScript|NodeJs|React|Redux|Postgres|Sequelize|Express|SQL|HTML|CSS|
 
     
     
