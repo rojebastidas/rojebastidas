@@ -11,7 +11,7 @@
     lácteos y conocimientos de facturación en salud, promoción y prevención, Historías clínicas con 3 años de experiencia trabajando en una IPS </p>
     <br>
     <h2>Lenguajes y Herramientas</h2>
-    <h3>JavaScript|NodeJs|React|Redux|Postgres|Sequelize|Express|SQL|HTML|CSS
+    <h3>JavaScript|NodeJs|React|Redux|Postgres|Sequelize|Express|SQL|HTML|CSS</h3>
     <br>
     <h2>Contactame </h2>
    
