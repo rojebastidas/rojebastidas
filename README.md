@@ -15,9 +15,7 @@
     <br>
     <h2>Contactame </h2>
    
-    <p align="left">Correo Electrónico: rojebastidas@yahoo.com.ar</p>
-    <p align="left">Linkedin:https://www.linkedin.com/in/rodrigo-jes%C3%BAs-bastidas-bastidas-61a89762</p>
-         
+   
    
         
     
